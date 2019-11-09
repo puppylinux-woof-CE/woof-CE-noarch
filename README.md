@@ -13,20 +13,6 @@ You or somebody else must add or update the pkg db entry in:
 
 https://github.com/puppylinux-woof-CE/woof-CE/blob/testing/woof-distro/Packages-puppy-noarch-official
 
-## DISTRO_PET_REPOS
-
-```
-PKG_DOCS_PET_REPOS="
-...
-z|https://raw.githubusercontent.com/puppylinux-woof-CE/woof-CE/${WCE_BRANCH}/woof-distro/x86/Packages-puppy-common32-official|z
-"
-
-PET_REPOS="
-...
-z|https://raw.githubusercontent.com/puppylinux-woof-CE/woof-CE-noarch/master|Packages-puppy-noarch-official
-"
-```
-  
 ## Info
 
 - Some noarch packages might be modified versions (peasyport), don't (always) assume you have the latest (woofce) version.
@@ -37,3 +23,17 @@ z|https://raw.githubusercontent.com/puppylinux-woof-CE/woof-CE-noarch/master|Pac
 
 - `Unfortunately` a cleanup operation should happen one day (delete the git history).
   
+
+## DISTRO_PET_REPOS
+
+```
+PKG_DOCS_PET_REPOS="
+...
+z|https://raw.githubusercontent.com/puppylinux-woof-CE/woof-CE/testing/woof-distro/x86/Packages-puppy-common32-official|z
+"
+
+PET_REPOS="
+...
+z|https://raw.githubusercontent.com/puppylinux-woof-CE/woof-CE-noarch/master|Packages-puppy-noarch-official
+"
+```
