@@ -148,7 +148,6 @@ jwm_theme_deepbluebold-1-1|jwm_theme_deepbluebold|1-1||Desktop|36K||jwm_theme_de
 jwm_theme_purplegum-01|jwm_theme_purplegum|01||Desktop;appearance|32K||jwm_theme_purplegum-01.pet|+jwm|no description provided||||
 jwm_theme_stark-1|jwm_theme_stark|1||Desktop|36K||jwm_theme_stark-1.pet|+jwm2|stark black-white with bits of colour theme for jwm window manager||||
 jwm_theme_stark-blueish-1|jwm_theme_stark-blueish|1||Desktop|36K||jwm_theme_stark-blueish-1.pet|+jwm2|stark black-white with blueish highlights||||
-jwmconfig3-151025|jwmconfig3|151025||Desktop|272K||jwmconfig3-151025.pet||JWM Window Manager Settings||||
 kernel_headers_musl-3.12.6-5-noarch|kernel_headers_musl|3.12.6-5-noarch||BuildingBlock|5152K||kernel_headers_musl-3.12.6-5-noarch.pet||kernel headers for musl libc||||
 legacy_grub_2013-1.6-1|legacy_grub_2013|1.6-1||System|36K||legacy_grub_2013-1.6-1.pet||Legacy GRUB Config 2013||||
 linux_firewall-2.0rc9-patched3-1|linux_firewall|2.0rc9-patched3-1||Network|148K||linux_firewall-2.0rc9-patched3-1.pet||Linux-Firewall firewall||||
@@ -224,7 +223,7 @@ radeon_firmware-120829|radeon_firmware|120829||System|308K||radeon_firmware-1208
 radeon_firmware_new-140109|radeon_firmware_new|140109||BuildingBlock|2836K||radeon_firmware_new-140109.pet||radeon firmware||||
 rox-filer-translations-16woodenshoe-noarch_xenial|rox-filer-translations|16woodenshoe-noarch_xenial||Filesystem|3192||rox-filer-translations-16woodenshoe-noarch_xenial.pet|+rox-filer|rox-filer pot and po files||||
 screeny-0.7-noarch|screeny|0.7-noarch||Graphic|32K||screeny-0.7-noarch.pet||Screeny Capture Windows and Fullscreen||||
-sfs_manager-0.17|sfs_manager|0.17||Setup|56K||sfs_manager-0.17.pet||download and install sfs files||||
+sfs_manager-0.18|sfs_manager|0.18||Setup|56K||sfs_manager-0.18.pet||download and install sfs files||||
 shareinternet-2.2.4-1|shareinternet|2.2.4-1||Network|136K||shareinternet-2.2.4-1.pet|+gtkdialog3,+dnsmasq|run puppy as a router||||
 snap2-4.27|snap2|4.27||Utility|208K||snap2-4.27.pet|+rsync|Snap2 snapshot backup||||
 ssl-certificate-fix-0.0.1|ssl-certificate-fix|0.0.1||BuildingBlock|8K||ssl-certificate-fix-0.0.1.pet||ca-certificates config file||||
