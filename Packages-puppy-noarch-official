@@ -87,7 +87,7 @@ firmware_usbserial-170511|firmware_usbserial|170511||BuildingBlock|32||firmware_
 firmware_zd1201-170511|firmware_zd1201|170511||BuildingBlock|164K||firmware_zd1201-170511.pet||firmware||||
 fix_pi_overscan-0.3-rpi_all|fix_pi_overscan|0.3-rpi_all||Desktop|68K||fix_pi_overscan-0.3-rpi_all.pet||Pi Overscan or Underscan||||
 frisbee-1.4.4|frisbee|1.4.4||Network|280K||frisbee-1.4.4.pet|+gtkdialog&ge0.8.4|Frisbee network manager||||
-frugalpup-25|frugalpup|25||Setup|3268K||frugalpup-25.pet||FrugalPup - flexible frugal installer||xenial||
+frugalpup-28|frugalpup|28||Setup|3280K||frugalpup-28.pet||FrugalPup - flexible frugal installer||xenial||
 get_browser-0.5|get_browser|0.5||Setup|100K||get_browser-0.5.pet|+libarchive|Download Chrome, Vivaldi or Opera||||
 get_libreoffice-0.43|get_libreoffice|0.43||Document|82K||get_libreoffice-0.43.pet||Get LibreOffice download and install LibreOffice||||
 getflash-1.9.1|getflash|1.9.1||Internet|92K||getflash-1.9.1.pet|+gtkdialog,+Xdialog|download adobe flash player||||
@@ -208,7 +208,7 @@ pschedule-1.1.6|pschedule|1.1.6||System|80K||pschedule-1.1.6.pet|+gtkdialog,+cro
 pstreamvid-1.3-2|pstreamvid|1.3-2||Multimedia|96K||pstreamvid-1.3-2.pet|+gxine,+gtkdialog3|Pstreamvid play streaming video||||
 psynclient-1.4.1|psynclient|1.4.1||System|68K||psynclient-1.4.1.pet|+gtkdialog,+xf86-input-synaptics|Configure your synaptics touchpad||||
 ptheme-0.6|ptheme|0.6||Desktop|464K||ptheme-0.6.pet|+gtkdialog,+switch2|Change the look and feel of the desktop||||
-ptheme_beach-0.1-noarch|ptheme_beach|0.1-noarch||BuildingBlock|448K||ptheme_beach-0.1-noarch.pet||puppy beach theme for pTheme||||
+ptheme_beach-0.2-noarch|ptheme_beach|0.2-noarch||BuildingBlock|300K||ptheme_beach-0.2-noarch.pet||puppy beach theme for pTheme||||
 ptheme_buntoo-0.9|ptheme_buntoo|0.9||BuildingBlock|188K||ptheme_buntoo-0.9.pet||ubuntu unity style JWM theme||||
 ptheme_faux_xfwm-0.5|ptheme_faux_xfwm|0.5||BuildingBlock|272K||ptheme_faux_xfwm-0.5.pet|+ptheme|fake xfwm theme for ptheme and JWM||||
 ptheme_osX-0.4|ptheme_osX|0.4||Desktop;appearance|640K||ptheme_osX-0.4.pet|+ptheme,+jwm_config|Mac like theme for ptheme and jwm||||
